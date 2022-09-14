@@ -13,28 +13,28 @@
 <h3>Screenshots</h3>
 <div>
   <h5>Home Page</h5>
-      <img src="/screenshots/Picture1.png" width="400" title="Home_Page">
+      <img src="/Screenshots/Picture1.png" width="400" title="Home_Page">
 </div>
 
 <div>
   <h5>Add Task Page</h5>
-      <img src="/screenshots/Picture2.png" width="400" title="Add_Task">
+      <img src="/Screenshots/Picture2.png" width="400" title="Add_Task">
       <br/>
-      <img src="/screenshots/Picture3.png" width="400" title="Add_Task">
+      <img src="/Screenshots/Picture3.png" width="400" title="Add_Task">
 </div>
 
 <div>
   <h5>Update Task Page</h5>
-      <img src="/screenshots/Picture4.png" width="400" title="Update_Task">
+      <img src="/Screenshots/Picture4.png" width="400" title="Update_Task">
       <br/>
-      <img src="/screenshots/Picture5.png" width="400" title="Update_Task">
+      <img src="/Screenshots/Picture5.png" width="400" title="Update_Task">
 </div>
 <div>
   <h5>Search Page</h5>
-      <img src="/screenshots/Picture6.png" width="400" title="Search_Page">
+      <img src="/Screenshots/Picture6.png" width="400" title="Search_Page">
 </div>
 
 <div>
   <h5>Delete Page</h5>
-      <img src="/screenshots/Picture7.png" width="400" title="Delete_Page">
+      <img src="/Screenshots/Picture7.png" width="400" title="Delete_Page">
 </div>
